@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="factory" value="4101ade6-63ff-43e5-a374-b38993cae7aa" />
+          <unit-entry name="orm:hibernate.cfg.xml" value="001d1e0f-e721-4f85-b2ac-150d26715f1b" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/orm/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
