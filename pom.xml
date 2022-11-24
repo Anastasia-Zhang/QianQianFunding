@@ -21,7 +21,7 @@
         <javax.servlet.servlet-api.version>2.5</javax.servlet.servlet-api.version>
 
 
-        <hibernateVersion>5.2.16.Final</hibernateVersion>
+        <hibernateVersion>5.3.20.Final</hibernateVersion>
 
         <mysql.mysql-connector-java.version>5.1.44</mysql.mysql-connector-java.version>
         <spring.security.version>3.2.9.RELEASE</spring.security.version>
